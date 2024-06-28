@@ -5,17 +5,17 @@ import ChooseSection from '../../components/ChooseSection/ChooseSection';
 import StartCoursesImg from '../../utils/images/addmissions.jpeg';
 import FaqAccordion from '../../components/FaqAccordion/FaqAccordion';
 import { Card } from 'react-bootstrap';
-import Blog1Img from '../../utils/images/Dpriti.jpeg';
-import Blog2Img from '../../utils/images/av.jpeg';
-import Blog3Img from '../../utils/images/swa.jpeg';
+import Blog1Img from '../../utils/images/nng3.JPG';
+import Blog2Img from '../../utils/images/nng2.JPG';
+import Blog3Img from '../../utils/images/nng1.JPG';
 
 const blogs = [
     
     {
         id: 1,
         img: [Blog2Img],
-        title: 'Welcome ceremony',
-        description: "Hon'ble Secretary Vinoy Kr Pandey with Shri Ajay Michyari, Ex-chief General Manager, RBI."
+    //      title: 'Welcome ceremony',
+    //    description: "Hon'ble Secretary Vinoy Kr Pandey with Shri Ajay Michyari, Ex-chief General Manager, RBI."
     },
     {
         id: 2,
@@ -87,10 +87,10 @@ function Home() {
                             <Link to="/gallery" className='text-decoration-none'>
                                 <Card className='h-100 shadow scale-hover-effect'>
                                     <Card.Img variant="top" src={blog.img} />
-                                    <Card.Body className='p-md-5'>
+                                    {/* <Card.Body className='p-md-5'>
                                         <Card.Title>{blog.title}</Card.Title>
-                                        <Card.Text>{blog.description}</Card.Text>
-                                    </Card.Body>
+                                        <Card.Text>{blog.description}</Card.Text> */}
+                                    {/* </Card.Body> */}
                                 </Card>
                             </Link>
                         </div>

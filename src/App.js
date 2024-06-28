@@ -118,13 +118,13 @@ function App() {
                 <div className='col-12 col-md-6 col-lg-7'>
                   <ul className='list-unstyled mb-0'>
                     <li>
-                      <p>SANATAN ROAD, JAMUARY, KANKE, RANCHI</p>
+                      <p>SANATAN ROAD, JAMUARY, KANKE, RANCHI-834006 (JHARKHAND)</p>
                     </li>
                     <li>
-                      <p>Phone-9576035071, 8210499465</p>
+                      <p>Phone- 8651038210, 8709574088</p>
                     </li>
                     <li>
-                      <p>Email:-sanatanvidyan@gmail.com</p>
+                      <p>Email:-principalnngsttc@gmail.com</p>
                     </li>
                   </ul>
                 </div>
