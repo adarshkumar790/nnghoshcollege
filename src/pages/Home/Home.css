@@ -1,0 +1,27 @@
+/* .home-page header {
+    background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/home-page-header.jpg);
+} */
+@keyframes moveBackground {
+    0% { background-position: 0 0; }
+    100% { background-position: 100% 100%; }
+}
+
+.home-page header {
+    background: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/nng.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    animation: moveBackground 10s linear infinite;
+}
+
+
+header {
+    background-size: cover;
+    background-position: center;
+}
+
+.blog-section {
+    background-image: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/blog-section-img.jpg);
+    background-size: cover;
+    background-position: center;
+}
