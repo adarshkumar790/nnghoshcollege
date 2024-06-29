@@ -42,6 +42,9 @@ function Home() {
                 <h5 className='text-center text-color-red fw-semibold'>Achieving Excellence Together</h5>
                 <h5 className='text-center fw-semibold'>Email:-principalnngsttc@gmail.com</h5>
                 <h5 className='text-center fw-semibold'>Mob:- 8651038210, 8709574088</h5>
+                <h5>Mangaed by</h5>
+                <h5>RISHIKUL SHAIKSHANIK SANSTHAN</h5>
+                <h5>(Resgistration No.118/2006-07)</h5>
                 <div className='d-flex flex-column flex-sm-row align-items-center'>
                     {/* <Link to="/courses">
                         <button type='button' className='btn btn-danger btn-lg mx-0 mx-sm-2 my-2 my-sm-0'></button>
