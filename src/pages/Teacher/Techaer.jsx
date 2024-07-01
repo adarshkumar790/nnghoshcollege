@@ -11,80 +11,116 @@ import Blog8Img from '../../utils/images/dubey.jpeg';
 import Blog9Img from '../../utils/images/anjali.jpeg';
 import Blog10Img from '../../utils/images/pragya.jpeg';
 import Blog11Img from '../../utils/images/riteshsahu.jpeg';
-import Blog12Img from '../../utils/images/Principal.jpeg';
+import Blog12Img from '../../utils/images/abha.png';
 
 const testimonials = [
   {
-    name: 'Dr. Dinesh Kr Singh',
-    position: 'Principal',
+    name: 'Dr. SACHCHIDANAND PATHAK',
+    position: 'Principal/HOD',
     image: [Blog12Img], 
-    testimonial: 'M.Sc (Chem), P.h.D',
+    testimonial: 'B.Ed, M.Ed, M.A, Ph.D',
+    experience: '17 years',
+    joining:'21-01-2020',
+    bankaccount: '38218771023SBI'
   },
   {
-    name: 'Pragya Awasthi',
-    position: 'Vice-Principal',
+    name: 'MANOJ KUMAR MISHRA',
+    position: 'Assistant Professor',
     image: [Blog10Img], 
-    testimonial: 'M.A, NTT, CIC',
+    testimonial: 'B.Ed, M.Ed, Ph.D',
+    experience: '',
+    joining: '21-01-2020',
+    bankaccount: '3863562671CBI'
   },
   {
-    name: 'Pratima Singh',
-    position: 'Senior Hindi Teacher',
+    name: 'AMRENDRA KUMAR ',
+    position: 'Assistant Professor',
     image: [Blog1Img], 
-    testimonial: 'M.A, B.Ed',
+    testimonial: 'B.Ed, M.Ed, NET Qualifyed',
+    experience: '',
+    joining: '21-01-2020',
+    bankaccount: '3862911455CBI'
   },
   {
-    name: 'Jyoti Rani',
-    position: 'Junior Maths Teacher',
+    name: 'SANJAY KUMAR YADAV',
+    position: 'Assistant Professor',
     image: [Blog2Img], 
-    testimonial: 'B.Ed, M.Com',
+    testimonial: 'B.Ed, M.Ed, M.A, NET Qualifyed',
+    experience: '',
+    joining: '21-01-2020',
+    bankaccount: '3804333763CBI'
   },
   {
-    name: 'Prabin Kumar Jha',
-    position: 'Senior English Teacher',
-    image: [Blog3Img], // Make sure to place your image in the public directory
-    testimonial: 'B.A, D.El.Ed',
+    name: 'DR. AMBRISH KUMAR DUBEY',
+    position: 'Assistant Professor',
+    image: [Blog3Img], 
+    testimonial: 'B.Ed, M.Ed, Ph.D (ENGLISH)',
+    experience: '',
+    joining: '21-01-2020',
+    bankaccount: '3804309366CBI'
   },
   {
-    name: 'Saraswati Oraon',
-    position: 'Maths Teacher',
-    image: [Blog4Img], // Make sure to place your image in the public directory
-    testimonial: 'B.SC, NTT',
+    name: 'SUNIL KUMAY ROY',
+    position: 'Assistant Professor',
+    image: [Blog4Img],
+    testimonial: 'B.Ed, M.Ed, NET Qualifyed',
+    experience: '',
+    joining: '21-01-2020',
+    bankaccount: '3804328958CBI'
   },
   {
-    name: 'Priti Devi',
-    position: 'G.K & E.V.S',
-    image: [Blog5Img], // Make sure to place your image in the public directory
-    testimonial: 'I.Com, D.El.Ed',
+    name: 'NEETU RAI',
+    position: 'Assistant Professor',
+    image: [Blog5Img], 
+    testimonial: 'B.Ed, M.Ed, NET Qualifyed',
+    experience: '',
+    joining: '21-01-2020',
+    bankaccount: '3862735965CBI'
   },
   {
-    name: 'Neha Kerketta',
-    position: 'Junior Teacher',
-    image: [Blog6Img], // Make sure to place your image in the public directory
-    testimonial: 'M.A ()',
+    name: 'AKANKSHA GOSWAMI',
+    position: 'Assistant Professor',
+    image: [Blog6Img], 
+    testimonial: 'B.Ed',
+    experience: '',
+    joining: '21-01-2020',
+    bankaccount: '3708604373CBI'
   },
   {
-    name: 'Sweta Tirkey',
-    position: 'Junior Hindi Teacher',
-    image: [Blog7Img], // Make sure to place your image in the public directory
-    testimonial: 'M.A, B.Ed',
+    name: 'ARCHANA KUMARI',
+    position: 'Assistant Professor',
+    image: [Blog7Img], 
+    testimonial: 'B.Ed',
+    experience: '',
+    joining: '21-01-2020',
+    bankaccount: '39661784392CBI'
   },
   {
-    name: 'Santosh Dubey',
-    position: 'Computer Teacher',
-    image: [Blog8Img], // Make sure to place your image in the public directory
-    testimonial: 'MCA',
+    name: 'NARSINGH KUMAR SINGH',
+    position: 'Assistant Professor',
+    image: [Blog8Img],
+    testimonial: 'BFA, MFA',
+    experience: '',
+    joining: '21-01-2020',
+    bankaccount: '3708202312CBI'
   },
   {
-    name: 'Anjali Kumari',
-    position: 'Senior Maths Teacher ',
-    image: [Blog9Img], // Make sure to place your image in the public directory
-    testimonial: 'B.SC(Maths)',
+    name: 'KARNAVIR V.P KUSHWAHA',
+    position: 'Assistant Professor',
+    image: [Blog9Img], 
+    testimonial: 'B.P., M.P.ED.',
+    experience: '',
+    joining: '21-01-2020',
+    bankaccount: '3709248710CBI'
   },
   {
-    name: 'Ritesh Sahu',
-    position: 'Senior Science Teacher ',
-    image: [Blog11Img], // Make sure to place your image in the public directory
-    testimonial: 'B.Tech',
+    name: 'PREETY AGRAWAL',
+    position: 'Assistant Professor',
+    image: [Blog11Img], 
+    testimonial: 'B.Ed',
+    experience: '',
+    joining: '21-01-2020',
+    bankaccount: '3667935402CBI'
   },
 ];
 
@@ -108,11 +144,14 @@ const TeacherTestimonials = () => {
                 alt={testimonial.name}
               />
               <div>
-                <p className="name">{testimonial.name}</p>
-                <p className="position">{testimonial.position}</p>
+                <h5 className="name">{testimonial.name}</h5>
+                <h6 className="position">{testimonial.position}</h6>
               </div>
             </div>
-            <p className="testimonial">Qualification:-{testimonial.testimonial}</p>
+            <p className="testimonial">Qualification:- {testimonial.testimonial}</p>
+            <p className="experience">Experience:- {testimonial.experience}</p>
+            <p className="joining">Joining:- {testimonial.joining}</p>
+            <p className="bank">Bank Account Number:- {testimonial.bankaccount}</p>
           </div>
         ))}
       </div>

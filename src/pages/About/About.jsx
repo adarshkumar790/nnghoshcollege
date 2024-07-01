@@ -131,6 +131,7 @@ function About() {
                         </div>
                     </div>
                 </div>
+                <hr/>
                 <div className='mt-4'>
                     <h2 className='text-primary'>Chairman's Message (Dr.S.B. Bhattacharya)</h2>
                     <div style={{ display: 'flex', alignItems: 'center' }}>
@@ -149,7 +150,7 @@ function About() {
                         <img src={BTC} alt="Chairman" style={{ width: '200px', height: 'auto', marginLeft: '1rem' }} />                        
                     </div>
                 </div>
-               
+               <hr/>
                 <div className='mt-4'>
                 <h2 className='text-primary'>Choice of Subjects for Method</h2>
                 <div style={{ display: 'flex', alignItems: 'center' }}>
@@ -195,6 +196,8 @@ function About() {
         </div>
         {/* <img src="path-to-image.jpg" alt="Chairman" style={{ width: '200px', height: 'auto', marginLeft: '1rem' }} /> */}
     </div>
+
+    <hr/>
     <div className='mt-4'>
     <h2 className='text-primary'>Fee Details</h2>
     <div className="table-responsive">
@@ -258,10 +261,10 @@ function About() {
                 </tr>
                
                 <tr>
-                    <td>Total</td>
-                    <td>90,000.00</td>
-                    <td>71,200.00</td>
-                    <td>1,61,200.00</td>
+                    <td><h5>Total</h5></td>
+                    <td><h5>90,000.00</h5></td>
+                    <td><h5>71,200.00</h5></td>
+                    <td><h5>1,61,200.00</h5></td>
                 </tr>
             </tbody>
         </table>
@@ -275,13 +278,14 @@ function About() {
 </div>
 
 </div>
+<hr/>
 <FaqAccordion className='mt-4' />
-
+ <hr/>
             </div>
 
-            <div className='bg-dark text-light py-5'>
+            {/* <div className='bg-dark text-light py-5'>
                 <ChooseSection />
-            </div>
+            </div> */}
 
             {/* <div className='bg-body-tertiary py-5'>
                 <div className="container">
