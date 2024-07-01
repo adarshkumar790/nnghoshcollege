@@ -70,9 +70,9 @@ function App() {
 <path d="M0 0 C2 1 2 1 2 1 Z " fill="#FFFFE2" transform="translate(155,67)"/>
 <path d="" fill="#F6FDE0" transform="translate(0,0)"/>
 </svg>
-              <span className='mx-2 text-light lh-1 fw-semibold'>
-                N.N.GHOSH        
-              </span>
+              {/* <span className='mx-2 text-light lh-1 fw-semibold'>
+                    
+              </span> */}
             </Link>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls='basic-navbar-nav' className='bg-light' />
