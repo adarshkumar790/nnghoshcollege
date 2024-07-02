@@ -92,7 +92,7 @@ function Home() {
                 <h5 className='text-center fw-semibold'>SANATAN ROAD, JAMUARY, KANKE, RANCHI-834006(JHARKHAND)</h5>
                 <h5 className='text-center text-color-red fw-semibold'>Achieving Excellence Together</h5>
                 <h5 className='text-center fw-semibold'>Email:- principalnngsttc@gmail.com</h5>
-                <h5 className='text-center fw-semibold'>Mob:- 8651038210, 8709574088</h5>
+                <h5 className='text-center fw-semibold'>Mob :- 8651038210, 8709574088</h5>
                 <h5 className='text-center fw-semibold'>Mangaed by</h5>
                 <h5>RISHIKUL SHAIKSHANIK SANSTHAN</h5>
                 <h5>(Resgistration No.118/2006-07)</h5>
