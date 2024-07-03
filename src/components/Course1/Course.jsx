@@ -162,7 +162,7 @@ function Course() {
                     • Colonial debates on school language policies.
                     </Accordion.Body>
                 </Accordion.Item>
-                {/* <Accordion.Item eventKey='15'>
+                <Accordion.Item eventKey='15'>
                     <Accordion.Header>UNIT II: Strategies for Developing Language Competencies (Listening, Speaking and Writing).</Accordion.Header>
                     <Accordion.Body>
                     • Listening: Pronunciation, expression, phonetic, stress and intonation. <br/>
@@ -171,7 +171,7 @@ function Course() {
                     • Writing: Mechanics of writing, good handwriting, teaching and spellings.
                     </Accordion.Body>
                 </Accordion.Item>
-                <Accordion.Item eventKey='11'>
+                <Accordion.Item eventKey='16'>
                     <Accordion.Header>UNIT III : Aspects of Language Teaching</Accordion.Header>
                     <Accordion.Body>
                     • Techniques: Discussion, notation, questioning. <br/>
@@ -182,7 +182,137 @@ function Course() {
                     3.पाठ्यक्रम में भाषा --रामकिशोर सिंह, रंजना पाण्डेय, पी०के० गुप्ता <br/>
                     4.पाठ्यक्रम में भाषा --पूजा अग्रवाल.
                     </Accordion.Body>
-                </Accordion.Item> */}
+                </Accordion.Item>
+                <h3>UNDERSTANDING DISCIPLINE AND SUBJECTS</h3>
+                <Accordion.Item eventKey='17'>
+                    <Accordion.Header>UNIT I : Philosophical Aspects of Education</Accordion.Header>
+                    <Accordion.Body>
+                    1. Western Thinkers <br/>
+                    • John Dewey <br/>
+                    • Rousseau   <br/>
+                    2. Indian Thinker <br/>
+                    • Swami Vivekanand <br/>
+                    • Ravindra Nath Tagore
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='18'>
+                    <Accordion.Header>UNIT II</Accordion.Header>
+                    <Accordion.Body>
+                    • Concept and scope of curriculum. <br/>
+                    • Importance, need and utility of curriculum. <br/>
+                    • Approaches and methods of organising different pedagogical subjects.  <br/>
+                    • Principle of designing curriculum in pedagogical subject at different stages in school. <br/>
+                    • Current discourses on school curricula (e.g. Purely discipline oriented, not learner-oriented).
+                      Suggestions/Guidelines for selection of material for curriculum (e.g. Work related subjects like horticulture or hospitality, need to be creatively developed etc.)
+                    <br/>
+                    ------------------------अनुमोदित पुस्तकें--------------------<br/>
+                    1. Understanding Disciplines and Subjects  -----Dr. Premlata Maisnam, Dr. S.K. Lenka, A.K. Gandhi. <br/>
+                    2. Understanding Disciplines and Subjects  -----Sharat Sharma <br/>
+                    3. अनुशासन और विषयों की समझ            -----श्रद्धा शर्मा <br/>
+                    4. पाठ्यक्रम और विषयों की समझ              ----- रामकिशोर सिंह
+                    </Accordion.Body>
+                </Accordion.Item>
+                <h3>GENDER, SCHOOL AND SOCIETY (1/2)(COURSE-6)</h3>
+                <Accordion.Item eventKey='19'>
+                    <Accordion.Header>UNIT I</Accordion.Header>
+                    <Accordion.Body>
+                        • Meaning of Gender, Gender bias and its indicators. <br/>
+                        • Role of women, measure for the uplift of women and removing gender bias with reference to Indian constitution.
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='20'>
+                    <Accordion.Header>UNIT II</Accordion.Header>
+                    <Accordion.Body>
+                    • Sociological basis of education. <br/>
+                    • Relation between society and education with special reference to aims of
+                      education, method of teaching curriculum. <br/>
+                    • Gendered roles of agencies in education : Family, community, school, mass
+                      media, caste, religion, culture and popular culture, law and state in challenging gender inequalities or reinforcing gender parity.
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='21'>
+                    <Accordion.Header>UNIT III</Accordion.Header>
+                    <Accordion.Body>
+                    • The role of teachers in formulating of positive notions of sexuality among young people. <br/>
+                    • Its impact and issues: Perceptions of safety at school, home and beyond, identification of sexual abuse/violence and its verbalisation, combating the dominant societal outlook of objectification of female body.
+                    <br/>
+                    ------------------------अनुमोदित पुस्तकें--------------------<br/>
+                    1. Gender, School and Society --Girish Pacahuri <br/>
+                    2. Gender, School and Society --Deepti Johari <br/>
+                    3. लिंग, विद्यालय और समाज  --सुधीर कुमार मिश्रा, अपर्णा शर्मा <br/>
+                    4. लिंग, विद्यालय और समाज ---राजकुमार गोयल, मीरा अग्रवाल <br/>
+                    5. जेन्डर, स्कूल तथा समाज ---डॉ० दीप्ति जौहरी
+                    </Accordion.Body>
+                </Accordion.Item>
+                <h3>PEDAGOGY OF A SCHOOL SUBJECT (Course 7a/7b : ENGLISH)</h3>
+                <Accordion.Item eventKey='22'>
+                    <Accordion.Header>UNIT I : Place of English in India and its Aims </Accordion.Header>
+                    <Accordion.Body>
+                    • Place of English in India colonial and post colonial perspective. <br/>
+                    • English as a library language, a link language, a language for communication in a globalized economy, a window to the world, a world language to foster international brotherhood. <br/>
+                    • Aims and objectives of teaching English as a second language at higher/ lower level. <br/>
+                    • The theories and principles of language learning based on the Piaget, Vygotsky, Bruner and Chomsky.
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='23'>
+                    <Accordion.Header>UNIT II : A Method and Approach of Teaching English</Accordion.Header>
+                    <Accordion.Body>
+                    • Grammar cum translation method vs. direct method. <br/>
+                    • Dr. West's new method and bilingual method. <br/>
+                    • Structural approach vs. functional communicative approach. <br/>
+                    • Situational language teaching. <br/>
+                    • Skills of introducing, questioning, probing, explaining, illustrating.
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='24'>
+                    <Accordion.Header>UNIT III</Accordion.Header>
+                    <Accordion.Body>
+                    • Teaching of prose, poetry, grammar, composition. <br/>
+                    • Difference between prose and poetry. <br/>
+                    • Important components of lesson plan. <br/>
+                    • Lesson plan of prose, poetry, grammar and composition. <br/>
+                    • Different literary and poetic devices: Rhyme, Rhythm, Simile, Metaphor, Alliteration, Pun Repetition...etc.
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='25'>
+                    <Accordion.Header>UNIT IV : Audio-Visual Aids in the Teaching of English</Accordion.Header>
+                    <Accordion.Body>
+                    • Need and importance of Audio-Visual Aids.<br/>
+                    • Types of Audio-Visual aids and its appropriate uses.<br/>
+                    • Language laboratory.
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='26'>
+                    <Accordion.Header>UNIT III : Teaching of Grammar</Accordion.Header>
+                    <Accordion.Body>
+                    • Nature of Grammar. <br/>
+                    • Types: .<br/>
+                    • Methods: Inductive and Deductive. <br/>
+                    • Importance Aspects of English Grammar : Prefixes, Suffixes(Infectional and Derivational)Stress, Intonation, juncture.
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='27'>
+                    <Accordion.Header>UNIT VI : </Accordion.Header>
+                    <Accordion.Body>
+                    • Teaching of Vocabulary.<br/>
+                    • Selection and Gradation of English Vocabulary for Teaching.
+                    • Vocalbulary Games.
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='28'>
+                    <Accordion.Header>UNIT III : Motivation</Accordion.Header>
+                    <Accordion.Body>
+                    • Concept, types and Maslow's theory. <br/>
+                    • Techniques to motivate children in classroom.
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='29'>
+                    <Accordion.Header>UNIT III : Motivation</Accordion.Header>
+                    <Accordion.Body>
+                    • Concept, types and Maslow's theory. <br/>
+                    • Techniques to motivate children in classroom.
+                    </Accordion.Body>
+                </Accordion.Item>
             </Accordion>
         </div>
     </div>
