@@ -300,19 +300,203 @@ function Course() {
                     </Accordion.Body>
                 </Accordion.Item>
                 <Accordion.Item eventKey='28'>
-                    <Accordion.Header>UNIT III : Motivation</Accordion.Header>
+                    <Accordion.Header>UNIT VII : Spoken English</Accordion.Header>
                     <Accordion.Body>
-                    • Concept, types and Maslow's theory. <br/>
-                    • Techniques to motivate children in classroom.
+                    • Phonoloyg: Definition, organs of speech, vowels, Consonants, Diphthongs. <br/>
+                    • Stress and intonation: <br/>
+                    • Practical work: Use of pronouncing dictionary, pronunciation drill, reading phonetic description,
                     </Accordion.Body>
                 </Accordion.Item>
                 <Accordion.Item eventKey='29'>
-                    <Accordion.Header>UNIT III : Motivation</Accordion.Header>
+                    <Accordion.Header>UNIT VIII : Evaluation in English</Accordion.Header>
                     <Accordion.Body>
-                    • Concept, types and Maslow's theory. <br/>
-                    • Techniques to motivate children in classroom.
+                    • Concept of evaluation. <br/>
+                    • Essentials of a good test. <br/> 
+                    • Tools of evolution--Oral, Written, Types of questions. <br/>
+                    • Importance of test and examinations. <br/>
+                    -----------अनुमोदित पुस्तकें-------------- <br/>
+                    1. Pedagogy of School Subject English. ---R.A. Mittal, S.K. Lenka, Pujan Pandey <br/>
+                    2. Pedagogy of School Subject English  ---R.A. Sharma, Shika Chaturvedi. <br/>
+                    3. Pedagogy of School Subject English  ---A.B. Bhatnagar 
+               </Accordion.Body>
+                </Accordion.Item>
+                <h3 className='mt-4'>HINDI (COURSE-7A/7B)</h3>
+                <Accordion.Item eventKey='30'>
+                    <Accordion.Header>इकाई 1 : हिन्दी शिक्षण : सैद्धान्तिक पक्ष</Accordion.Header>
+                    <Accordion.Body>
+                    • भाषा की प्रकृति, महत्त्व एवं अधिगम प्रक्रिया। <br/>
+                    • हिन्दी शिक्षण के उद्देश्य. <br/>
+                    • विद्यालयी स्तर पर भाषा.<br/>
+                    •  हिन्दी भाषा एवं साहित्य शिक्षण की विधियाँ.
                     </Accordion.Body>
                 </Accordion.Item>
+                <Accordion.Item eventKey='31'>
+                    <Accordion.Header>इकाई 2 : भाषिक योग्यता का विकास</Accordion.Header>
+                    <Accordion.Body>
+                    • श्रवण, दृश्य एवं मौखिक अभिव्यक्ति कौशल का विकास। <br/>
+                    • पठन योग्यता का विकास, पठन शिक्षण की विधियाँ-सस्वर पठा, मौन पठन, समकालिक पठन, सूक्ष्म पठन एवं विस्तृत पठन।  <br/>
+                    •  लिखित अभिव्यक्ति क्षमता का विकास।
+                      </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='32'>
+                    <Accordion.Header>इकाई 3 : साहित्यिक विधाआ-एवं व्याकरण शिक्षण</Accordion.Header>
+                    <Accordion.Body>
+                    • कविता शिक्षण <br/>
+                    •  गद्य तथा गद्य की विभिन्न विधाआ-का शिक्षण-उपन्यास, नाटक, निबन्ध कहानी।  <br/>
+                    • -व्याकरण शिक्षण।
+                      </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='33'>
+                    <Accordion.Header>इकाई 4 : मूल्यांकन, क्रियात्मक शोध तथा समुन्नयन कार्य गणड़ाडी</Accordion.Header>
+                    <Accordion.Body>
+                    • हिन्दी पाठ्यपुस्तक समीक्षा। <br/>
+                    • भाषा संप्राप्ति मूल्यांकन। <br/>
+                    • निदानात्मक एवं उपचारात्मक कार्य।  <br/>
+                    • क्रियात्मक शोध । <br/>
+                    • समुन्नयन कार्य । <br/>
+                    -----------अनुमोदित पुस्तकें-------------- <br/>
+                    1. हिन्दी शिक्षण --Ram Bihari lal <br/>
+                    2. हिन्दी शिक्षण --शिखा चतुर्वेदी <br/>
+                    3. हिन्दी शिक्षण शास्त्र --शिखा अग्रवाल
+                      </Accordion.Body>
+                </Accordion.Item>
+                <h3>Course 7a/7b : URDU</h3>
+                <Accordion.Item eventKey='34'>
+                    <Accordion.Header>UNIT I : LANGUAGE </Accordion.Header>
+                    <Accordion.Body>
+                    • Origin and development of Urdu language in India. <br/>
+                    • Position of Urdu language in the post-independent India. <br/>
+                    • Various formats (Asnaf) of Urdu language and literature. <br/>
+                    • Aims of teaching language (Psychological and Linguistic approach of Language teaching.)
+                   <br/> • Aims and objectives of teaching Urdu language. <br/>
+                    • Importance of Mother Tongue in school subject. 
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='35'>
+                    <Accordion.Header>UNIT II : METHODOLOGY</Accordion.Header>
+                    <Accordion.Body>
+                    • Pronunciation in Urdu, skill in questioning, example and explanation. <br/>
+                    • Technique of Urdu teaching. <br/>
+                    • Teaching Urdu prose, poetry, ghazal, grammar, essay and letter writing.  <br/>
+                    • Examination and evaluation. <br/>
+                    • Importance of homework in Urdu. <br/>
+                    • Lesson Planning: (Meaning, importance and structure), planning of prose, poetry, grammar and essay.
+                </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='36'>
+                    <Accordion.Header>UNIT III : MATERIAL</Accordion.Header>
+                    <Accordion.Body>
+                    • Urdu Text-Book (Evaluation of existing curriculum). <br/>
+                    • Teaching and reading material (silent, loud, simultaneous, extensive and intensive reading). <br/>
+                    • Audio-visual Aids in Urdu teaching. <br/>
+                    • Personality of Urdu Teachers. <br/>
+                    • Co-curricular activities (Practical activities) in Urdu. <br/>
+                    • Urdu Library.
+                    </Accordion.Body>
+                    </Accordion.Item>
+                    <h3>Course 7a/7b : SANSKRIT</h3>
+                    <Accordion.Item eventKey='37'>
+                        <Accordion.Header>UNIT I : Aims and Objectives of Teaching Learning </Accordion.Header>
+                        <Accordion.Body>
+                        • Importance of Sanskrit as language and its status. <br/>
+                        • The position of Sanskrit in India. <br/>
+                        • The place of Sanskrit in the School Curriculum.
+                        </Accordion.Body>
+                        </Accordion.Item>
+                        <Accordion.Item eventKey='38'>
+                            <Accordion.Header>UNIT II : Methods of Teaching Techniques </Accordion.Header>
+                            <Accordion.Body>
+                            • Prose: Discussion, narration, questioning.<br/>
+                            • Methods: Story telling, dramatisation, simulation. <br/>
+                            • Poetry Methods: Recitation, song / action, dramatization, discussion, appreciation. <br/>
+                            • Grammar Methods: Inductive, deductive, play way, interactive. <br/>
+                            • Composition: Guided, free, creative, correction of composition. 
+                            </Accordion.Body>
+                            </Accordion.Item>
+                            <Accordion.Item eventKey='39'>
+                                <Accordion.Header>UNIT III :Strategies of Developing Language Competencies  </Accordion.Header>
+                                <Accordion.Body>
+                                • Listening: Pronunciation, expressive, phonetics, stress on intonation. Speaking: Loud, silent, chorus, expressive, speed. <br/>
+                                • Writing: Hand writing skill, poetic and non-poetic.
+                                • Extra-curricular Activities of Sanskrit.
+                                </Accordion.Body>
+                                </Accordion.Item>
+                              <Accordion.Item eventKey='40'>
+                                <Accordion.Header>UNIT IV : Teacher and Text-book</Accordion.Header>
+                                <Accordion.Body>
+                                • Teacher: Qualities, role and responsibilities, professional growth, diagnostic testing and remedial teaching.
+                               <br/> • Textbook: Characteristics of a text-book, critical analysis of a text-book.
+                                </Accordion.Body>
+                                </Accordion.Item>
+                            <Accordion.Item eventKey='41'>
+                                <Accordion.Header>UNIT V : Material of Instruction or Language Teaching</Accordion.Header>
+                                <Accordion.Body>
+                                • Language Practice: Assignment, games, club, language club. <br/>
+                                • Use of Technology: Multimedia centre, OHP, video, tape recorder, computer assisted instruction. <br/>
+                                • Use of Media: TV, Newspaper, Advertisement. <br/>
+                                • Use of Library: Koshas, Dictionaries. <br/>
+                                • Language: Lab. <br/>
+                                ---------------अनुमोदित पुस्तकें------------------<br/>
+                               1. संस्कृत शिक्षण  ---सन्त कुमार मिश्रा <br/>
+                               2. संस्कृत शिक्षण  ---डॉ० सन्तोष मित्तल  <br/>
+                               3. संस्कृत शिक्षण  --- रेनू सिंह 
+                                </Accordion.Body>
+                                </Accordion.Item>
+                                <h3>COURSE 7a/7b : PHYSICAL SCIENCE</h3>
+                            <Accordion.Item eventKey='42'>
+                        <Accordion.Header>UNIT I : The Nature and Scope of Physical Science</Accordion.Header>
+                        <Accordion.Body>
+                        • Nature and scope of science. <br/>
+                        • Structure of science, substantive structure, empirical knowledge, theoretical knowledge (facts, concepts, hypothesis, theory, principle, law, syntactic structure of science, scientific enquiry, process of science, attitude of inquiry).
+                        </Accordion.Body>
+                         </Accordion.Item>
+                       <Accordion.Item eventKey='43'>
+                        <Accordion.Header>UNIT II : Aims, Values and Objectives of Teaching Physical Science</Accordion.Header>
+                        <Accordion.Body>
+                        • Aims and objectives of teaching physical science. <br/>
+                        •  Importance of physical science in school curriculum.
+                        </Accordion.Body>
+                        </Accordion.Item>
+                        <Accordion.Item eventKey='44'>
+                         <Accordion.Header>UNIT III : Science Curriculum</Accordion.Header>
+                         <Accordion.Body>
+                         • Definition of curriculum. <br/>
+                         • Principles of curriculum organisation. <br/>
+                         • Qualities of a good Science text-book state and CBSE. <br/>
+                         • Critical review of Physical science text-book.
+                         </Accordion.Body>
+                         </Accordion.Item>
+                         <Accordion.Item eventKey='45'>
+                         <Accordion.Header>UNIT IV : Strategies of teaching Physical Science</Accordion.Header>
+                         <Accordion.Body>
+                         • Science Teaching: Concepts and meaning of approaches methods and techniques. <br/>
+                         • Approaches: Inductive, deductive and heuristic. <br/>
+                         • Methods: Lecture, demonstration, lecture cum demonstration, scientific problem-solving, team teaching. <br/>
+                         • Modern Techniques of Science Teaching: Brain storming, quiz, seminars, discussion, scenario building.
+                         </Accordion.Body>
+                         </Accordion.Item>
+                         <Accordion.Item eventKey='46'>
+                         <Accordion.Header>UNIT V : Instruction Planning</Accordion.Header>
+                         <Accordion.Body>
+                         • Importance and use of teaching aids.
+                         Visual: Projected aids, slides, film strips, transparencies.
+                         Audiovisual: TV, radio, film projector, computed (multimedia) Audio: Radio, tape recorder.
+                         Non-projected: Charts, models. <br/>
+                         • Maintenance of register in the lab.
+                         </Accordion.Body>
+                         </Accordion.Item>
+                         <Accordion.Item eventKey='47'>
+                        <Accordion.Header>UNIT VI : Strengthening.Science Teaching</Accordion.Header>
+                        <Accordion.Body>
+                              
+                        </Accordion.Body>    
+                        </Accordion.Item>      
+                        <Accordion.Item eventKey='48'>
+                        <Accordion.Header>UNIT VII : Evaluation</Accordion.Header>
+                        <Accordion.Body>
+                                
+                        </Accordion.Body>
+                        </Accordion.Item>
             </Accordion>
         </div>
     </div>
