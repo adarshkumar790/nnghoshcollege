@@ -13,6 +13,7 @@ import SportCourseImg from '../../utils/images/sport-course.jpg';
 import FaqAccordion from '../../components/FaqAccordion/FaqAccordion';
 import Accordion from 'react-bootstrap/Accordion';
 import Course from '../../components/Course1/Course';
+import Course1 from '../../components/Course2/course';
 
 // const courses = [
 //     {
@@ -153,9 +154,8 @@ function Syallubus() {
     </table>
            
           <hr className='mt-4'/>
-          {/* <Course/> */}
+          <Course1/>
         </div>
-        
     </div>
   )
 }
