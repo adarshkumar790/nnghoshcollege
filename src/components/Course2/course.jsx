@@ -201,7 +201,182 @@ function Course1() {
                     4. समावेशी शिक्षण                ----मदन सिंह
                     </Accordion.Body>
                 </Accordion.Item>
-</Accordion>
+                <h3>OPTIONAL COURSES (1/2) : GARDENING</h3>
+                <Accordion.Item eventKey='18'>
+                    <Accordion.Header>UNIT 1: Gardening</Accordion.Header>
+                    <Accordion.Body>
+                    • Concept, need and importance of work experience with special emphasis
+                     on Gardening. <br/>
+                    • Objective of teaching gardening in schools. <br/>
+                    • Method of teaching. <br/>
+                    • Evaluating student work.
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='19'>
+                    <Accordion.Header>UNIT II: Materials and Tools</Accordion.Header>
+                    <Accordion.Body>
+                    • Seeds, cutting and grasses: Types, uses and resources.<br/>
+                    • Pots, types, uses and resources. <br/>
+                    • Manure and fertilisers: Types, sources and importance. <br/>
+                    • Tools and equipments: Sources, function and uses. 
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='20'>
+                    <Accordion.Header>UNIT III: Content Enrichment</Accordion.Header>
+                    <Accordion.Body>
+                    • Soil classification texture and structure. <br/>
+                    • Methods of preparations: <br/>
+                   (a) Sexual and Vegetative <br/>
+                   (b) Cutting, lying, grafting and budding.<br/>
+                   (c) Ornamental Gardening <br/>
+                    Ø Ornamental Plants: types and their classification. <br/>
+                    Ø Techniques of growing vegetables. <br/>
+                    (d) Kitchen Gardening <br/>
+                    Ø Vegetables: Types, (seasonal and perennial)  <br/>
+                    Ø Techniques of growing vegetables
+                    </Accordion.Body>
+                </Accordion.Item>
+                <h3>BASIC OF COMPUTER</h3>
+                <Accordion.Item eventKey='21'>
+                    <Accordion.Header>UNIT 1: Fundamental of Computers</Accordion.Header>
+                    <Accordion.Body>
+                    1. Introduction, characteristics of computers  <br/>
+                    2. Essential components of computer <br/>
+                    • Input unit <br/>
+                    • Central processing unit <br/>
+                    • Output devices <br/>
+                    3. Types of memory, storage devices. <br/>
+                    4. Computer languages (assembly, machine, high level).  <br/>
+                    5. Uses and applications of computer
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='22'>
+                    <Accordion.Header>UNIT II: Introduction to Operating System</Accordion.Header>
+                    <Accordion.Body>
+                    1. Computer and types of operating system. <br/>
+                    2. Basics of MS Windows <br/>
+                    3. Components of Windows <br/>
+                    4. Advantages of Windows
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='23'>
+                    <Accordion.Header>UNIT III: Introduction to MS-Office</Accordion.Header>
+                    <Accordion.Body>
+                    1. Microsoft Word <br/>
+                    • Introduction, components of word documents, basics of Word Processing. Saving/opening new documents/files in different locations (drives)
+              <br/> • Text editing, spell check, insert picture, word art. <br/>
+                    • Text printing, mail merge. 
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='24'>
+                    <Accordion.Header>2. Microsoft Excel</Accordion.Header>
+                    <Accordion.Body>
+                    • Introduction, components of excel. <br/>
+                    • Enter and edit data in excel work sheet. <br/>
+                    • Statistical application. <br/>
+                    • Function. <br/>
+                    • Graphical representation, how to create/draw graphs. <br/>
+                    • Standard statistical function.
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='25'>
+                    <Accordion.Header>3. Microsoft Power Point</Accordion.Header>
+                    <Accordion.Body>
+                    • Introduction, application. presentation. <br/>
+                    • Clip art. <br/>
+                    • Creating and viewing <br/>
+                    • Slide show <br/>
+                    • Editing the presentation <br/>
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='26'>
+                    <Accordion.Header>UNIT IV : Introduction to Internet and E-mail.</Accordion.Header>
+                    <Accordion.Body>
+                    1. Interent, history and working, characteristics of internet. <br/>
+                    2. Electronic mail. <br/>
+                    3. Browsing internet. <br/>
+                    4. World Wide Wed (WWW). <br/>
+                    5. Advantage of Interent. <br/>
+                    6. Educational Websites. 
+                    </Accordion.Body>
+                </Accordion.Item>
+                <h3>FINE ARTS</h3>
+                <Accordion.Item eventKey='26'>
+                    <Accordion.Header>Contents:</Accordion.Header>
+                    <Accordion.Body>
+                    1. Definition of arts. <br/>
+                    2. Aims and objectives of teaching art and craft in schools. <br/>
+                    3. A brief history of Indian Art: Pre-historic period to Modern Indian Art. <br/>
+                    4. A brief history of Western Art: Pre-historic period to Modern times.<br/>
+                    5. The Art Teacher: Role, area of activities viz. environment, participation in life, excursion of the place of Art. <br/>
+                    6. Technique of Drawing and Painting: Colour Theory. <br/>
+                    7. Theory of perspective. <br/>
+                    8. Aesthetics.
+                    </Accordion.Body>
+                </Accordion.Item>
+                <h3>TAILORING</h3>
+                <Accordion.Item eventKey='25'>
+                    <Accordion.Header>UNIT I: Testile and Clothing</Accordion.Header>
+                    <Accordion.Body>
+                    • History of textile and clothing. <br/>
+                    • Textile clothing of the body. <br/>
+                    • Classification of textile and clothing. <br/>
+                    • The laundry of the clothing.  <br/>
+                    • Characteristics, importance of textile and clothing.
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='25'>
+                    <Accordion.Header>UNIT II: History of Sewing Machine</Accordion.Header>
+                    <Accordion.Body>
+                    • Types of Sewing Machine <br/>
+                    • Machine faults and their remedies.  <br/>
+                    • Precautions in drafting and sewing. <br/>
+                    • Parts and tools of Sewing Machine. <br/>
+                    • Pattern making and cutting.   <br/>
+                    • Maintenance of sewing machine.
+                    </Accordion.Body>
+                </Accordion.Item>
+            <h3>EPC 4: UNDERSTANDING THE SELF</h3>
+            <Accordion.Item eventKey='26'>
+                    <Accordion.Header>UNIT 1: Holistic and Integrated Understanding of Human Self and Personality</Accordion.Header>
+                    <Accordion.Body>
+                    • Who Am I? <br/>
+                    • Individual in society with different identities: Gender, relational, cultural. <br/>
+                    • Beliefs: Stereotypes and prejudices. <br/>
+                    • Relationship with self, others, family, society. <br/>
+                    • "I"- A teacher. Who a teacher is? Role of a teacher, qualities and functions. <br/>
+                    • Communication skill including the ability to listen and observe.
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='27'>
+                    <Accordion.Header>UNIT II: Personality Development</Accordion.Header>
+                    <Accordion.Body>
+                    • Self exploration: Knowing ones strengths and weaknesses, positive strokes and negative strokes etc. <br/>
+                    • Spiritual/Character Development. <br/>
+                    • Self-esteem. • Emotions : <br/>
+                    (a) The power of emotion in human behaviour.<br/> 
+                    (b) Understanding of the emotions.<br/>
+                    (c) Growth toward emotional maturity.  <br/>
+                    (d) Stages of emotional growth. <br/>
+                    </Accordion.Body>
+                </Accordion.Item>
+                <Accordion.Item eventKey='28'>
+                    <Accordion.Header>UNIT III: Philosophy of Yoga</Accordion.Header>
+                    <Accordion.Body>
+                    • Meaning of Yoga.
+                    • Yoga as a way of Healthy and Integrated Living. <br/>
+                    • Characteristics of the practitioners of Yoga. <br/>
+                    • Utility of yoga in different contexts. (Exercise Mediation, Pranayam). <br/>
+                    -----अनुमोदि त पुस्तकें----------<br/>
+                    1. Understanding the Self  ----Shivani Jain <br/> 
+                    2. Understanding the Self  ----Seema Sharma <br/>
+                    3. स्वयं की समझ              ----पूजा अग्रवाल, राजकुमार गोयल  <br/>
+                    4. शिक्षा दर्शन और आत्म-विकास की अवधारणाएँ ---- पूजा अग्रवाल, राजकुमार गोयल <br/>
+                    5. आत्म-बोध ---- पूजा अग्रवाल, राजकुमार गोयल  -डॉ० राजकुमार गोयल, डॉ० मीरा अग्रवाल -शिवपाल सिंह, राकेश कुमार केशरी <br/>
+                    </Accordion.Body>
+                </Accordion.Item>
+
+</Accordion> 
 </div>
 </div>
 )

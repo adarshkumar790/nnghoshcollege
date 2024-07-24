@@ -82,17 +82,14 @@ function Syallubus() {
       ];
 
       const data1 = [
-        { paperNo: 'Course 1', title: 'Childhood and Growing Up', course: 'YEAR I', marks: 100 },
-        { paperNo: 'Course 2', title: 'Contemporary India and Education', course: 'YEAR I', marks: 100 },
-        { paperNo: 'Course 3', title: 'Learning and Teaching', course: 'YEAR I', marks: 100 },
-        { paperNo: 'Course 4', title: 'Language Across the Curriculum (1/2)', course: 'YEAR I', marks: 50 },
-        { paperNo: 'Course 5', title: 'Understanding Disciplines and Subjects (1/2)', course: 'YEAR I', marks: 50 },
-        { paperNo: 'Course 6', title: 'Gender, School and Society (1/2)', course: 'YEAR I', marks: 50 },
-        { paperNo: 'Course 7a', title: 'Pedagogy of a School Subject-Part I (1/2)', course: 'YEAR I', marks: 50 },
-        { paperNo: 'EPC1', title: 'Reading and Reflecting on Text (1/2)', course: 'YEAR I', marks: 50 },
-        { paperNo: 'EPC2', title: 'Drama and Art in Education (1/2)', course: 'YEAR I', marks: 50 },
-        { paperNo: 'EPC3', title: 'Critical Understanding of ICT (1/2)', course: 'YEAR I', marks: 50 },
-        { paperNo: '', title: 'Total', course: '', marks: 650 }
+        { paperNo: 'Course 7b', title: 'Pedagogy of a School Subject--Part II (1/2)', course: 'YEAR II', marks: 50},
+        { paperNo: 'Course 8', title: 'Knowledge and Curriculum', course: 'YEAR I', marks: 100 },
+        { paperNo: 'Course 9', title: 'Assessment for Learning', course: 'YEAR II', marks: 100 },
+        { paperNo: 'Course 10', title: 'Operating an Inclusive School (1/2)', course: 'YEAR II', marks: 50 },
+        { paperNo: 'Course 11', title: 'Optional Course (1/2)', course: 'YEAR II', marks: 50 },
+        { paperNo: 'Course EPC4', title: 'Understanding the Self (1/2)', course: 'YEAR II', marks: 50 },
+        { paperNo: 'School Internsip', title: '', course: 'YEAR II', marks: 150 },
+        { paperNo: 'Pratical Exam', title: 'Pedagogy of a School Subject - A, Pedagogy of a School Subject - B', course: 'YEAR II', marks: 110},
       ]
   return (
     <div className='courses-page'>
@@ -106,6 +103,7 @@ function Syallubus() {
         </header>
  
         <div className='container py-5 w-200'>
+        <h3 className='ml-4'>YEAR I</h3>
         <table className="styled-table">
       <thead>
         <tr>
@@ -130,8 +128,9 @@ function Syallubus() {
           <hr className='mt-4'/>
           <Course/>
         </div>
-
+     
         <div className='container py-5 w-200'>
+        <h3 className='ml-4'>YEAR II</h3>
         <table className="styled-table">
       <thead>
         <tr>
