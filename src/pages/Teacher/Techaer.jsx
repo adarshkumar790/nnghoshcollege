@@ -1,17 +1,17 @@
 import React from 'react';
 import "./Techer.css"
-import Blog1Img from '../../utils/images/Pratima.jpeg';
-import Blog2Img from '../../utils/images/jyoti.jpeg';
-import Blog3Img from '../../utils/images/praween.jpeg';
+import Blog1Img from '../../utils/images/Amrendra.jpg';
+import Blog2Img from '../../utils/images/sanjayyadav.jpg';
+import Blog3Img from '../../utils/images/ambrish.jpg';
 import Blog4Img from '../../utils/images/sarswati.jpeg';
-import Blog5Img from '../../utils/images/Priti.jpeg';
-import Blog6Img from '../../utils/images/Neha.jpeg';
-import Blog7Img from '../../utils/images/sweta.jpeg';
-import Blog8Img from '../../utils/images/dubey.jpeg';
-import Blog9Img from '../../utils/images/anjali.jpeg';
-import Blog10Img from '../../utils/images/pragya.jpeg';
-import Blog11Img from '../../utils/images/riteshsahu.jpeg';
-import Blog12Img from '../../utils/images/abha.png';
+import Blog5Img from '../../utils/images/nitu.jpg';
+import Blog6Img from '../../utils/images/akanksh.jpg';
+import Blog7Img from '../../utils/images/Archna.jpg';
+import Blog8Img from '../../utils/images/Narsingh.jpg';
+import Blog9Img from '../../utils/images/karmveer.jpg';
+import Blog10Img from '../../utils/images/Manoj.jpg';
+import Blog11Img from '../../utils/images/Amrendra.jpg';
+import Blog12Img from '../../utils/images/Principal.jpg';
 
 const testimonials = [
   {
