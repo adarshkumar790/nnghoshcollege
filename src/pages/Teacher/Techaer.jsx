@@ -3,15 +3,17 @@ import "./Techer.css"
 import Blog1Img from '../../utils/images/Amrendra.jpg';
 import Blog2Img from '../../utils/images/sanjayyadav.jpg';
 import Blog3Img from '../../utils/images/ambrish.jpg';
-import Blog4Img from '../../utils/images/sarswati.jpeg';
+import Blog4Img from '../../utils/images/sunilkrroy.jpg';
 import Blog5Img from '../../utils/images/nitu.jpg';
 import Blog6Img from '../../utils/images/akanksh.jpg';
 import Blog7Img from '../../utils/images/Archna.jpg';
 import Blog8Img from '../../utils/images/Narsingh.jpg';
 import Blog9Img from '../../utils/images/karmveer.jpg';
 import Blog10Img from '../../utils/images/Manoj.jpg';
-import Blog11Img from '../../utils/images/Amrendra.jpg';
+import Blog11Img from '../../utils/images/Priti.jpg';
 import Blog12Img from '../../utils/images/Principal.jpg';
+import Blog15Img from '../../utils/images/SK Dubey.jpg';
+import Blog16Img from '../../utils/images/Ajay Tiwari.jpg';
 
 const testimonials = [
   {
@@ -122,6 +124,26 @@ const testimonials = [
     joining: '21-01-2020',
     bankaccount: '3667935402CBI'
   },
+  {
+    name: 'SANTOSH KUMAR DUBEY',
+    position: 'Computer instructor cum & Administrative officer',
+    image: [Blog15Img],
+    testimonial: 'MCA, M.A (Eng)',
+    experience: '',
+    joining: '07-11-2017',
+    bankaccount: '10587057385'
+  },
+  {
+    name: 'AJAY TIWARI',
+    position: 'Care Tacker',
+    image: [Blog16Img],
+    // testimonial: 'MCA, M.A (Eng)',
+    experience: '',
+    joining: '07-11-2017',
+    bankaccount: '10587057385'
+  },
+  
+
 ];
 
 const TeacherTestimonials = () => {
