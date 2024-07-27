@@ -1,5 +1,5 @@
 import React from 'react';
-import "./Techer.css"
+import "./Techer.css";
 import Blog1Img from '../../utils/images/Amrendra.jpg';
 import Blog2Img from '../../utils/images/sanjayyadav.jpg';
 import Blog3Img from '../../utils/images/ambrish.jpg';
@@ -17,18 +17,25 @@ import Blog16Img from '../../utils/images/Ajay Tiwari.jpg';
 
 const testimonials = [
   {
+    si: '1',
     name: 'Dr. SACHCHIDANAND PATHAK',
+    image: Blog12Img,
+    category: 'GEN',
     position: 'Principal/HOD',
-    image: [Blog12Img], 
-    testimonial: 'B.Ed, M.Ed, M.A, Ph.D',
+    bead: 'Yes, 64%',
+    mead: 'Yes, 60.28%',
+    ma: 'No',
+    master: 'Yes, ANC History',
+    subject: 'ANC History',
+    phd: 'Yes',
     experience: '17 years',
-    joining:'21-01-2020',
+    joining: '21-01-2020',
     bankaccount: '38218771023SBI'
   },
   {
     name: 'MANOJ KUMAR MISHRA',
     position: 'Assistant Professor',
-    image: [Blog10Img], 
+    image: Blog10Img, 
     testimonial: 'B.Ed, M.Ed, Ph.D',
     experience: '',
     joining: '21-01-2020',
@@ -37,7 +44,7 @@ const testimonials = [
   {
     name: 'AMRENDRA KUMAR ',
     position: 'Assistant Professor',
-    image: [Blog1Img], 
+    image: Blog1Img, 
     testimonial: 'B.Ed, M.Ed, NET Qualifyed',
     experience: '',
     joining: '21-01-2020',
@@ -46,7 +53,7 @@ const testimonials = [
   {
     name: 'SANJAY KUMAR YADAV',
     position: 'Assistant Professor',
-    image: [Blog2Img], 
+    image: Blog2Img, 
     testimonial: 'B.Ed, M.Ed, M.A, NET Qualifyed',
     experience: '',
     joining: '21-01-2020',
@@ -55,7 +62,7 @@ const testimonials = [
   {
     name: 'DR. AMBRISH KUMAR DUBEY',
     position: 'Assistant Professor',
-    image: [Blog3Img], 
+    image: Blog3Img, 
     testimonial: 'B.Ed, M.Ed, Ph.D (ENGLISH)',
     experience: '',
     joining: '21-01-2020',
@@ -64,7 +71,7 @@ const testimonials = [
   {
     name: 'SUNIL KUMAY ROY',
     position: 'Assistant Professor',
-    image: [Blog4Img],
+    image: Blog4Img,
     testimonial: 'B.Ed, M.Ed, NET Qualifyed',
     experience: '',
     joining: '21-01-2020',
@@ -73,7 +80,7 @@ const testimonials = [
   {
     name: 'NEETU RAI',
     position: 'Assistant Professor',
-    image: [Blog5Img], 
+    image: Blog5Img, 
     testimonial: 'B.Ed, M.Ed, NET Qualifyed',
     experience: '',
     joining: '21-01-2020',
@@ -82,7 +89,7 @@ const testimonials = [
   {
     name: 'AKANKSHA GOSWAMI',
     position: 'Assistant Professor',
-    image: [Blog6Img], 
+    image: Blog6Img, 
     testimonial: 'B.Ed',
     experience: '',
     joining: '21-01-2020',
@@ -91,7 +98,7 @@ const testimonials = [
   {
     name: 'ARCHANA KUMARI',
     position: 'Assistant Professor',
-    image: [Blog7Img], 
+    image: Blog7Img, 
     testimonial: 'B.Ed',
     experience: '',
     joining: '21-01-2020',
@@ -100,7 +107,7 @@ const testimonials = [
   {
     name: 'NARSINGH KUMAR SINGH',
     position: 'Assistant Professor',
-    image: [Blog8Img],
+    image: Blog8Img,
     testimonial: 'BFA, MFA',
     experience: '',
     joining: '21-01-2020',
@@ -109,7 +116,7 @@ const testimonials = [
   {
     name: 'KARNAVIR V.P KUSHWAHA',
     position: 'Assistant Professor',
-    image: [Blog9Img], 
+    image: Blog9Img, 
     testimonial: 'B.P., M.P.ED.',
     experience: '',
     joining: '21-01-2020',
@@ -118,7 +125,7 @@ const testimonials = [
   {
     name: 'PREETY AGRAWAL',
     position: 'Assistant Professor',
-    image: [Blog11Img], 
+    image: Blog11Img, 
     testimonial: 'B.Ed',
     experience: '',
     joining: '21-01-2020',
@@ -127,7 +134,7 @@ const testimonials = [
   {
     name: 'SANTOSH KUMAR DUBEY',
     position: 'Computer instructor cum & Administrative officer',
-    image: [Blog15Img],
+    image: Blog15Img,
     testimonial: 'MCA, M.A (Eng)',
     experience: '',
     joining: '07-11-2017',
@@ -136,47 +143,66 @@ const testimonials = [
   {
     name: 'AJAY TIWARI',
     position: 'Care Tacker',
-    image: [Blog16Img],
+    image: Blog16Img,
     // testimonial: 'MCA, M.A (Eng)',
     experience: '',
     joining: '07-11-2017',
     bankaccount: '10587057385'
   },
-  
-
 ];
 
 const TeacherTestimonials = () => {
   return (
     <div className="testimonials-container">
-         <header className='height-75'>
-            <div className='container h-100 d-flex flex-column align-items-center justify-content-center text-light'>
-                <h1 className='text-center fw-semibold'>Teacher</h1>
-                <p className='text-center w-75 mb-5'>Teachers are the guiding lights in our lives, imparting knowledge, fostering critical thinking, and shaping the future by nurturing young minds with patience, dedication, and passion.</p>
-            </div>
-        </header>
+      <header className='height-75'>
+        <div className='container h-100 d-flex flex-column align-items-center justify-content-center text-light'>
+          <h1 className='text-center fw-semibold'>Teacher</h1>
+          <p className='text-center w-75 mb-5'>Teachers are the guiding lights in our lives, imparting knowledge, fostering critical thinking, and shaping the future by nurturing young minds with patience, dedication, and passion.</p>
+        </div>
+      </header>
       <h2 className="testimonials-title">Teacher Testimonials</h2>
-      <div className="testimonials-grid">
-        {testimonials.map((testimonial, index) => (
-          <div key={index} className="testimonial-card">
-            <div className="card-header">
-              <img
-                className="profile-image"
-                src={testimonial.image}
-                alt={testimonial.name}
-              />
-              <div>
-                <h5 className="name">{testimonial.name}</h5>
-                <h6 className="position">{testimonial.position}</h6>
-              </div>
-            </div>
-            <p className="testimonial">Qualification:- {testimonial.testimonial}</p>
-            <p className="experience">Experience:- {testimonial.experience}</p>
-            <p className="joining">Joining:- {testimonial.joining}</p>
-            <p className="bank">Bank Account Number:- {testimonial.bankaccount}</p>
-          </div>
-        ))}
-      </div>
+      <table className="testimonials-table">
+        <thead>
+          <tr>
+            <th>SI.No.</th>
+            <th>Name with Date of Birth Age</th>
+            <th>Photograph</th>
+            <th>Category</th>
+            <th>Desination</th>
+            <th>B.Ed</th>
+            <th>M.Ed</th>
+            <th>M.A</th>
+            <th>Master's Degree</th>
+            <th>Subject of Teaching</th>
+            <th>Ph.D</th>
+            <th>UGC NET</th>
+            <th>Experience</th>
+            <th>Date of Intial</th>
+            <th>Joining Date</th>
+            <th>Salary</th>
+          </tr>
+        </thead>
+        <tbody>
+          {testimonials.map((testimonial, index) => (
+            <tr key={index}>
+              <td>{testimonial.si}</td>
+              <td>{testimonial.name}</td>
+              <td><img className="profile-image" src={testimonial.image} alt={testimonial.name} /></td>
+              <td>{testimonial.category}</td>
+              <td>{testimonial.position}</td>
+              <td>{testimonial.bead}</td>
+              <td>{testimonial.mead}</td>
+              <td>{testimonial.ma}</td>
+              <td>{testimonial.master}</td>
+              <td>{testimonial.subject}</td>
+              <td>{testimonial.phd}</td>
+              <td>{testimonial.experience}</td>
+              <td>{testimonial.joining}</td>
+              <td>{testimonial.bankaccount}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </div>
   );
 };

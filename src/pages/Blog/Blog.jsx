@@ -23,12 +23,12 @@ import Blog18Img from '../../utils/images/n18.jpeg';
 import Blog19Img from '../../utils/images/n19.jpeg';
 import Blog20Img from '../../utils/images/n20.jpeg';
 import Blog21Img from '../../utils/images/n21.jpeg';
-import Blog22Img from '../../utils/images/gallery22.jpeg';
-import Blog23Img from '../../utils/images/gallery23.jpeg';
-import Blog24Img from '../../utils/images/gallery25.jpeg';
-import Blog25Img from '../../utils/images/gallery6.jpeg';
-import Blog26Img from '../../utils/images/gallery26.jpeg';
-import Blog27Img from '../../utils/images/gallery4.jpeg';
+import Blog22Img from '../../utils/images/n22.jpg';
+import Blog23Img from '../../utils/images/n23.jpg';
+import Blog24Img from '../../utils/images/n24.jpg';
+import Blog25Img from '../../utils/images/n25.jpg';
+import Blog26Img from '../../utils/images/n26.jpg';
+import Blog27Img from '../../utils/images/n27.jpg';
 import Blog28Img from '../../utils/images/gallery28.jpeg';
 import Blog29Img from '../../utils/images/gallery29.jpeg';
 
