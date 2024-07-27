@@ -7,22 +7,22 @@ import Blog2Img from '../../utils/images/n2.jpeg';
 import Blog3Img from '../../utils/images/n3.jpeg';
 import Blog4Img from '../../utils/images/n4.jpeg';
 import Blog5Img from '../../utils/images/n5.jpeg';
-import Blog6Img from '../../utils/images/gallery24.jpeg';
-import Blog7Img from '../../utils/images/gallery7.jpeg';
-import Blog8Img from '../../utils/images/gallery8.jpeg';
-import Blog9Img from '../../utils/images/gallery9.jpeg';
-import Blog10Img from '../../utils/images/gallery10.jpeg';
-import Blog11Img from '../../utils/images/gallery11.jpeg';
-import Blog12Img from '../../utils/images/gallery12.jpeg';
-import Blog13Img from '../../utils/images/gallery3.jpeg';
-import Blog14Img from '../../utils/images/gallery14.jpeg';
-import Blog15Img from '../../utils/images/gallery15.jpeg';
-import Blog16Img from '../../utils/images/gallery16.jpeg';
-import Blog17Img from '../../utils/images/gallery17.jpeg';
-import Blog18Img from '../../utils/images/gallery18.jpeg';
-import Blog19Img from '../../utils/images/gallery19.jpeg';
-import Blog20Img from '../../utils/images/gallery1.jpeg';
-import Blog21Img from '../../utils/images/gallery21.jpeg';
+import Blog6Img from '../../utils/images/n6.jpeg';
+import Blog7Img from '../../utils/images/n7.jpeg';
+import Blog8Img from '../../utils/images/n8.jpeg';
+import Blog9Img from '../../utils/images/n9.jpeg';
+import Blog10Img from '../../utils/images/n10.jpeg';
+import Blog11Img from '../../utils/images/n11.jpeg';
+import Blog12Img from '../../utils/images/n12.jpeg';
+import Blog13Img from '../../utils/images/n13.jpeg';
+import Blog14Img from '../../utils/images/n14.jpeg';
+import Blog15Img from '../../utils/images/n15.jpeg';
+import Blog16Img from '../../utils/images/n16.jpeg';
+import Blog17Img from '../../utils/images/n17.jpeg';
+import Blog18Img from '../../utils/images/n18.jpeg';
+import Blog19Img from '../../utils/images/n19.jpeg';
+import Blog20Img from '../../utils/images/n20.jpeg';
+import Blog21Img from '../../utils/images/n21.jpeg';
 import Blog22Img from '../../utils/images/gallery22.jpeg';
 import Blog23Img from '../../utils/images/gallery23.jpeg';
 import Blog24Img from '../../utils/images/gallery25.jpeg';
@@ -225,8 +225,8 @@ function Blog() {
                                 <Card className='h-100 shadow scale-hover-effect bg-dark text-light border-0'>
                                     <Card.Img variant="top" src={blog.img} />
                                     <Card.Body className='p-md-5 d-flex flex-column align-items-center'>
-                                        <Card.Title className='fs-2 mb-4 text-center'>{blog.title}</Card.Title>
-                                        <Card.Text className='text-center'>{blog.description}</Card.Text>
+                                        {/* <Card.Title className='fs-2 mb-4 text-center'>{blog.title}</Card.Title>
+                                        <Card.Text className='text-center'>{blog.description}</Card.Text> */}
                                     </Card.Body>
                                 </Card>
                             </Link>
