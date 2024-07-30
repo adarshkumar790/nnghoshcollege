@@ -19,7 +19,7 @@
 }
 
 .testimonials-container header {
-  background: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/teacher.avif);
+  background: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/nng.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -27,9 +27,9 @@
 }
 
 
-.testimonials-container {
+/* .testimonials-container {
   padding: 20px;
-}
+} */
 
 .testimonials-title {
   text-align: center;
@@ -37,9 +37,10 @@
 }
 
 .testimonials-table {
-  width: 100%;
+  width: 90%;
   border-collapse: collapse;
-  margin: 20px 0;
+  margin: 20px 20px 20px 20px;
+  /* padding: 20px; */
 }
 
 .testimonials-table th, .testimonials-table td {
@@ -56,5 +57,5 @@
   width: 100px;
   height: 100px;
   object-fit: cover;
-  /* border-radius: 50%; */
+  border-radius: 80%;
 }

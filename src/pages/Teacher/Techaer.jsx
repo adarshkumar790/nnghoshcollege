@@ -279,7 +279,7 @@ const TeacherTestimonials = () => {
           <p className='text-center w-75 mb-5'>Teachers are the guiding lights in our lives, imparting knowledge, fostering critical thinking, and shaping the future by nurturing young minds with patience, dedication, and passion.</p>
         </div>
       </header>
-      <h2 className="testimonials-title">Teacher Testimonials</h2>
+      {/* <h2 className="testimonials-title">Teacher Testimonials</h2> */}
       <table className="testimonials-table">
         <thead>
           <tr>
