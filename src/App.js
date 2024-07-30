@@ -28,14 +28,14 @@ function App() {
           <Navbar.Toggle aria-controls='basic-navbar-nav' className='bg-light' />
           <Navbar.Collapse id='basic-navbar-nav'>
             <Nav className='me-auto justify-content-end w-100'>
-              <Nav.Link href='/' className='text-uppercase'>Home</Nav.Link>
+              <Nav.Link href='/' className='text-uppercase fw-semibold'>Home</Nav.Link>
               {/* <Nav.Link href='/courses' className='text-uppercase'>Subject</Nav.Link> */}
-              <Nav.Link href='/about' className='text-uppercase'>About us</Nav.Link>
-              <Nav.Link href='/teachers' className='text-uppercase'>Faculty</Nav.Link>
-              <Nav.Link href='/syallubus' className='text-uppercase'>Syallubus</Nav.Link>
-              <Nav.Link href='/gallery' className='text-uppercase'>Gallery</Nav.Link>
-              <Nav.Link href='/bus' className='text-uppercase'>Bus</Nav.Link>
-              <Nav.Link href='/contact' className='text-uppercase'>Contact</Nav.Link>
+              <Nav.Link href='/about' className='text-uppercase  fw-semibold'>About us</Nav.Link>
+              <Nav.Link href='/teachers' className='text-uppercase fw-semibold'>Faculty</Nav.Link>
+              <Nav.Link href='/syallubus' className='text-uppercase fw-semibold'>Syallubus</Nav.Link>
+              <Nav.Link href='/gallery' className='text-uppercase fw-semibold'>Gallery</Nav.Link>
+              <Nav.Link href='/bus' className='text-uppercase fw-semibold'>Bus</Nav.Link>
+              <Nav.Link href='/contact' className='text-uppercase fw-semibold'>Contact</Nav.Link>
               
             </Nav>
           </Navbar.Collapse>
@@ -96,19 +96,19 @@ function App() {
                 <div className='col-12 col-md-6 col-lg-5 mb-5 mt-4 my-md-0'>
                   <ul className='footer-navigation list-unstyled mb-0'>
                     <Link to="/" className='text-decoration-none text-danger'>
-                      <li className='text-uppercase fw-semibold'>Home</li>
+                      <li className='text-uppercase fw-bold'>Home</li>
                     </Link>
                     {/* <Link to="/courses" className='text-decoration-none text-danger'>
                       <li className='text-uppercase fw-semibold'>Our </li>
                     </Link> */}
                     <Link to="/about" className='text-decoration-none text-danger'>
-                      <li className='text-uppercase fw-semibold'>About us</li>
+                      <li className='text-uppercase  fw-bold'>About us</li>
                     </Link>
                     <Link to="/gallery" className='text-decoration-none text-danger'>
-                      <li className='text-uppercase fw-semibold'>Gallery</li>
+                      <li className='text-uppercase fw-bold'>Gallery</li>
                     </Link>
                     <Link to="/contact" className='text-decoration-none text-danger'>
-                      <li className='text-uppercase fw-semibold'>Get In Touch</li>
+                      <li className='text-uppercase fw-bold'>Get In Touch</li>
                     </Link>
                   </ul>
                 </div>
