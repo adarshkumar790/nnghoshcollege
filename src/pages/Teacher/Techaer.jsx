@@ -17,8 +17,8 @@ import Blog16Img from '../../utils/images/Ajay Tiwari.jpg';
 
 const testimonials = [
   {
-    si: '1',
-    name: 'Dr. SACHCHIDANAND PATHAK',
+    si: 'A',
+    name: 'Dr. SACHCHIDANAND PATHAK (01-04-1974)',
     image: Blog12Img,
     category: 'GEN',
     position: 'Principal/HOD',
@@ -28,126 +28,245 @@ const testimonials = [
     master: 'Yes, ANC History',
     subject: 'ANC History',
     phd: 'Yes',
+    ugc: 'Yes',
     experience: '17 years',
+    di: '25-09-2018',
     joining: '21-01-2020',
-    bankaccount: '38218771023SBI'
+    salary: ''
   },
   {
-    name: 'MANOJ KUMAR MISHRA',
-    position: 'Assistant Professor',
-    image: Blog10Img, 
-    testimonial: 'B.Ed, M.Ed, Ph.D',
-    experience: '',
+    si: '1',
+    name: 'Manoj Kumar Mishra (10-07-1968)',
+    image: Blog10Img,
+    category: 'GEN',
+    position: 'Asst Professor',
+    bead: 'Yes, 72.2%',
+    mead: 'Yes, 65.4%',
+    ma: 'No',
+    master: 'Yes, Science',
+    subject: 'Education',
+    phd: 'No',
+    ugc: 'No',
+    experience: 'No',
+    di: '25-09-2018',
     joining: '21-01-2020',
-    bankaccount: '3863562671CBI'
+    salary: ''
   },
   {
-    name: 'AMRENDRA KUMAR ',
-    position: 'Assistant Professor',
-    image: Blog1Img, 
-    testimonial: 'B.Ed, M.Ed, NET Qualifyed',
-    experience: '',
+    si: '2',
+    name: 'Amrendra Kumar (15-11-1968)',
+    image: Blog1Img,
+    category: 'GEN',
+    position: 'Asst Professor',
+    bead: 'Yes, 86.60%%',
+    mead: 'Yes, 58.71%',
+    ma: 'No',
+    master: 'Yes, Math',
+    subject: 'Math',
+    phd: 'No',
+    ugc: 'Yes, NET',
+    experience: 'No',
+    di: '25-09-2018',
     joining: '21-01-2020',
-    bankaccount: '3862911455CBI'
+    salary: ''
   },
   {
-    name: 'SANJAY KUMAR YADAV',
-    position: 'Assistant Professor',
-    image: Blog2Img, 
-    testimonial: 'B.Ed, M.Ed, M.A, NET Qualifyed',
-    experience: '',
+    si: '3',
+    name: 'Sanjay Kumar Yadav (06-12-1990)',
+    image: Blog2Img,
+    category: 'GEN',
+    position: 'Asst Professor',
+    bead: 'Yes, 66.60%',
+    mead: 'Yes, 68.76%',
+    ma: 'Yes',
+    master: 'No',
+    subject: 'Foundation',
+    phd: 'No',
+    ugc: 'Yes, NET',
+    experience: 'No',
+    di: '25-09-2018',
     joining: '21-01-2020',
-    bankaccount: '3804333763CBI'
+    salary: ''
   },
   {
-    name: 'DR. AMBRISH KUMAR DUBEY',
-    position: 'Assistant Professor',
-    image: Blog3Img, 
-    testimonial: 'B.Ed, M.Ed, Ph.D (ENGLISH)',
-    experience: '',
+    si: '4',
+    name: 'Dr. Ambrish Kumar Dubey (18-01-1982)',
+    image: Blog3Img,
+    category: 'GEN',
+    position: 'Asst Professor',
+    bead: 'Yes, 75.30%',
+    mead: 'Yes, 63.85%',
+    ma: 'No',
+    master: 'Yes, English',
+    subject: 'English, ',
+    phd: 'Yes, English',
+    ugc: 'No',
+    experience: 'No',
+    di: '25-09-2018',
     joining: '21-01-2020',
-    bankaccount: '3804309366CBI'
+    salary: ''
   },
   {
-    name: 'SUNIL KUMAY ROY',
-    position: 'Assistant Professor',
+    si: '5',
+    name: 'Sunil Kumar Roy (01-07-1973)',
     image: Blog4Img,
-    testimonial: 'B.Ed, M.Ed, NET Qualifyed',
-    experience: '',
+    category: 'GEN',
+    position: 'Asst Professor',
+    bead: 'Yes, 66%',
+    mead: 'Yes, 62.50%',
+    ma: 'No',
+    master: 'Yes, History',
+    subject: 'History',
+    phd: 'No',
+    ugc: 'Yes, NET',
+    experience: 'No',
+    di: '25-09-2018',
     joining: '21-01-2020',
-    bankaccount: '3804328958CBI'
+    salary: ''
   },
   {
-    name: 'NEETU RAI',
-    position: 'Assistant Professor',
-    image: Blog5Img, 
-    testimonial: 'B.Ed, M.Ed, NET Qualifyed',
-    experience: '',
+    si: '6',
+    name: 'Neetu Rai (05-07-1983)',
+    image: Blog5Img,
+    category: 'GEN',
+    position: 'Asst Professor',
+    bead: 'Yes, 63.10%',
+    mead: 'Yes, 61.40%',
+    ma: 'No',
+    master: 'Yes, Hindi',
+    subject: 'Hindi',
+    phd: 'No',
+    ugc: 'Yes, NET',
+    experience: 'No',
+    di: '25-09-2018',
     joining: '21-01-2020',
-    bankaccount: '3862735965CBI'
+    salary: ''
   },
   {
-    name: 'AKANKSHA GOSWAMI',
-    position: 'Assistant Professor',
-    image: Blog6Img, 
-    testimonial: 'B.Ed',
-    experience: '',
+    si: '7',
+    name: 'Akanksha Goswami (22-03-1992)',
+    image: Blog6Img,
+    category: 'GEN',
+    position: 'Principal/HOD',
+    bead: 'Yes, 64%',
+    mead: 'Yes, 60.28%',
+    ma: 'No',
+    master: 'Yes, ANC History',
+    subject: 'ANC History',
+    phd: 'Yes',
+    ugc: 'Yes',
+    experience: '17 years',
+    di: '25-09-2018',
     joining: '21-01-2020',
-    bankaccount: '3708604373CBI'
+    salary: ''
   },
   {
-    name: 'ARCHANA KUMARI',
-    position: 'Assistant Professor',
-    image: Blog7Img, 
-    testimonial: 'B.Ed',
-    experience: '',
+    si: '8',
+    name: 'Archana Kumari (06-06-1981)',
+    image: Blog7Img,
+    category: 'GEN',
+    position: 'Asst Professor',
+    bead: 'Yes, 81%',
+    mead: 'No',
+    ma: 'No',
+    master: 'Yes, Education 69%',
+    subject: 'Education',
+    phd: 'No',
+    ugc: 'No',
+    experience: 'No',
+    di: '25-09-2018',
     joining: '21-01-2020',
-    bankaccount: '39661784392CBI'
+    salary: ''
   },
   {
-    name: 'NARSINGH KUMAR SINGH',
-    position: 'Assistant Professor',
+    si: '9',
+    name: 'Nursingh Kumar Singh (01-04-1974)',
     image: Blog8Img,
-    testimonial: 'BFA, MFA',
-    experience: '',
-    joining: '21-01-2020',
-    bankaccount: '3708202312CBI'
+    category: 'GEN',
+    position: 'Asst Professor',
+    bead: 'BFA, 74%',
+    mead: 'MFA, 74%',
+    ma: 'No',
+    master: 'Yes, MFA',
+    subject: 'Fine Arts',
+    phd: 'No',
+    ugc: 'No',
+    experience: 'No',
+    di: '25-09-2018',
+    joining: '21-01-2018',
+    salary: ''
   },
   {
-    name: 'KARNAVIR V.P KUSHWAHA',
-    position: 'Assistant Professor',
-    image: Blog9Img, 
-    testimonial: 'B.P., M.P.ED.',
-    experience: '',
-    joining: '21-01-2020',
-    bankaccount: '3709248710CBI'
+    si: '10',
+    name: 'Karnvir V.P.Kushwaha (15-01-1985)',
+    image: Blog9Img,
+    category: 'GEN',
+    position: 'Asst Professor',
+    bead: 'B.P, 72%',
+    mead: 'M.P.E.D, 58%',
+    ma: 'No',
+    master: 'Yes, M.P.E.D 58%',
+    subject: 'Physical Education',
+    phd: 'No',
+    ugc: 'No',
+    experience: 'No',
+    di: '25-09-2018',
+    joining: '01-10-2018',
+    salary: ''
   },
   {
-    name: 'PREETY AGRAWAL',
-    position: 'Assistant Professor',
-    image: Blog11Img, 
-    testimonial: 'B.Ed',
-    experience: '',
+    si: '11',
+    name: 'Preety Agrawal (05-12-1981)',
+    image: Blog10Img,
+    category: 'GEN',
+    position: 'Principal/HOD',
+    bead: 'Yes, 64%',
+    mead: 'Yes, 60.28%',
+    ma: 'No',
+    master: 'Yes, ANC History',
+    subject: 'ANC History',
+    phd: 'Yes',
+    ugc: 'Yes',
+    experience: '17 years',
+    di: '25-09-2018',
     joining: '21-01-2020',
-    bankaccount: '3667935402CBI'
+    salary: ''
   },
   {
-    name: 'SANTOSH KUMAR DUBEY',
-    position: 'Computer instructor cum & Administrative officer',
+    si: '12',
+    name: 'Santosh Dubey (07-11-2017)',
     image: Blog15Img,
-    testimonial: 'MCA, M.A (Eng)',
+    category: 'GEN',
+    position: 'Administrativr Officer',
+    bead: 'No',
+    mead: 'No',
+    ma: 'Yes',
+    master: 'Yes, M.C.A',
+    subject: '',
+    phd: 'No',
+    ugc: 'No',
     experience: '',
-    joining: '07-11-2017',
-    bankaccount: '10587057385'
+    di: '25-09-2018',
+    joining: '21-01-2020',
+    salary: ''
   },
   {
-    name: 'AJAY TIWARI',
-    position: 'Care Tacker',
+    si: '13',
+    name: 'Ajay Tiwari (01-04-1974)',
     image: Blog16Img,
-    // testimonial: 'MCA, M.A (Eng)',
-    experience: '',
-    joining: '07-11-2017',
-    bankaccount: '10587057385'
+    category: 'GEN',
+    position: 'Care Taker',
+    bead: 'Yes, 64%',
+    mead: 'Yes, 60.28%',
+    ma: 'No',
+    master: 'Yes, ANC History',
+    subject: 'ANC History',
+    phd: 'Yes',
+    ugc: 'Yes',
+    experience: '17 years',
+    di: '25-09-2018',
+    joining: '21-01-2020',
+    salary: ''
   },
 ];
 
@@ -164,8 +283,8 @@ const TeacherTestimonials = () => {
       <table className="testimonials-table">
         <thead>
           <tr>
-            <th>SI.No.</th>
-            <th>Name with Date of Birth Age</th>
+            <th>S.No</th>
+            <th>Name and DOB</th>
             <th>Photograph</th>
             <th>Category</th>
             <th>Desination</th>
@@ -176,10 +295,10 @@ const TeacherTestimonials = () => {
             <th>Subject of Teaching</th>
             <th>Ph.D</th>
             <th>UGC NET</th>
-            <th>Experience</th>
-            <th>Date of Intial</th>
-            <th>Joining Date</th>
-            <th>Salary</th>
+            <th>Exp</th>
+            <th>D_of_Intial</th>
+            <th>Joining_Date</th>
+            {/* <th>Salary</th> */}
           </tr>
         </thead>
         <tbody>
@@ -196,9 +315,11 @@ const TeacherTestimonials = () => {
               <td>{testimonial.master}</td>
               <td>{testimonial.subject}</td>
               <td>{testimonial.phd}</td>
+              <td>{testimonial.ugc}</td>
               <td>{testimonial.experience}</td>
+              <td>{testimonial.di}</td>
               <td>{testimonial.joining}</td>
-              <td>{testimonial.bankaccount}</td>
+              {/* <td>{testimonial.salary}</td> */}
             </tr>
           ))}
         </tbody>
