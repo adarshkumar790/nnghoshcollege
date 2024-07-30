@@ -6,13 +6,21 @@
     100% { background-position: 100% 100%; }
 }
 
+@keyframes slideshow {
+    0% { background-image: url(../../utils/images/nng.JPG); }
+    33% { background-image: url(../../utils/images/b1.JPG); }
+    66% { background-image: url(../../utils/images/b2.JPG); }
+    100% { background-image: url(../../utils/images/b3.JPG); }
+}
+
 .home-page header {
     background: linear-gradient(rgba(5, 10, 35, 0.75), rgba(5, 10, 35, 0.75)), url(../../utils/images/nng.JPG);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    animation: moveBackground 10s linear infinite;
+    animation: moveBackground 10s linear infinite, slideshow 30s linear infinite;
 }
+
 
 
 header {
